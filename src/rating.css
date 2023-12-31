@@ -1,0 +1,11 @@
+.starColor{
+    color: orange;
+    cursor: pointer;
+}
+.starColor.disable{
+    cursor: default;
+}
+.imgstyle img{
+    width: 150px;
+    height: 150px;
+}
